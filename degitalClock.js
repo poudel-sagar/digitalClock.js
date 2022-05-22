@@ -4,6 +4,7 @@
     <head>
         <title>digital clock</title>
     </head>
+//body
     <body>
         <div id="MyClockDisplay"></div>
         <script type="text/javascript">
